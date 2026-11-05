@@ -17,3 +17,6 @@ and Network Management.
 
 ## Author
 Faris Idrees
+## Dashboard Preview
+
+![Power BI Dashboard](Dashboard.png)
